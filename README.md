@@ -1,16 +1,14 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 About Me<br><br>I’m Masadi Swetha, a B. Tech student in CSE (AI & ML), Batch 31.<br><br>Passionate about AI, App Development, and Databases, with a strong interest in solving real-world problems.<br><br>I enjoy building impactful apps, solving DSA challenges, and working on AI-powered solutions.<br><br>💻 Key Projects<br><br>🌱 Greeners Mate (Flutter):<br>A smart produce retailer app designed to help farmers and retailers track profits, expenditures, and dues with voice-assisted input, autofill suggestions, and AI-powered features.<br><br>🩺 Liver Disorder Prediction (ML):<br>Achieved 81% accuracy using KNN with SMOTE and Bootstrap techniques for medical data classification.<br><br>🐾 Animals Image Classification (Deep Learning):<br>Developed a DL model for accurate classification of animal images using TensorFlow.<br><br>🛠️ Tech Stack<br><br>Languages: Python, SQL, C<br><br>Frameworks & Tools: Flutter, Firebase, Supabase, Hive, TensorFlow<br><br>Databases: Firestore, Supabase, MySQL<br><br>Other Interests: NLP, AI-driven Assistants
 
-<!--
-**swetharaomasadi/swetharaomasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swetha-masadi-8ba193267/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swetharaomasadi@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=swetharaomasadi&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=swetharaomasadi&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swetharaomasadi&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
